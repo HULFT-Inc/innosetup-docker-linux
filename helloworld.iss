@@ -2,7 +2,7 @@
 AppName=EmptyProgram
 AppVerName=EmptyProgram 1
 UsePreviousAppDir=false
-DefaultDirName={pf}\EmptyProgram
+DefaultDirName={autopf}\EmptyProgram
 Uninstallable=false
 OutputBaseFilename=HelloWorld
 PrivilegesRequired=none
